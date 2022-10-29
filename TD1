@@ -1,0 +1,323 @@
+# L’évolution des disques durs
+
+## Introduction
+
+De nos jours, les disques durs sont **partout** : on
+les trouve principalement dans les ordinateurs mais
+on peut également les retrouver dans les consoles de
+jeux, les téléphones, et d’autres objets connectés.
+Avant d’aller plus loin il va falloir définir ce qu’est un
+disque dur. Un disque dur est l&#39;un des principaux
+composants d&#39;un ordinateur. Son rôle est de stocker
+des données informatiques : autrement dit, c’est la
+mémoire. Il contient les programmes installés et des
+données personnelles.
+Il existe 2 grands types de mémoire :  **la mémoire
+morte** et **la mémoire vive**. Les disques ROM
+permettent de stocker des données informatiques de
+façon permanente. La mémoire vive (RAM) est
+principalement chargée de prendre en charge le
+traitement des données dans les processeurs des
+ordinateurs et des téléphones.
+Il est donc important pour nous de savoir
+comment est composé un disque dur et comment il
+fonctionne. Les premiers ont été conçus dans les
+années 1950 et depuis ils n’ont pas cessé d&#39;évoluer. 
+En effet, leurs tailles et leurs poids ont diminué tandis
+que leur capacité de stockage à considérablement
+augmentée pour devenir de plus en plus pratique à
+utiliser.
+Il est donc logique de se demander comment est-
+il possible de stocker plus de données dans des
+disques durs qui sont de plus en plus petit.
+Pour y répondre, nous allons étudier l’évolution des
+technologies de stockage ainsi que les différents
+modèles de disques durs qui ont vu le jour au fil des
+années tout en expliquant au mieux leur
+fonctionnement.
+![image](https://user-images.githubusercontent.com/116948168/198824905-f070ffaa-5ef9-431b-b15d-3785ae29811a.png)
+
+## Les leaders du marché 
+
+Le 1er disque de stockage était dit “magnétique”.
+Il servait à écrire et à lire des données sur une bande
+magnétique. Autrement dit, on écrivait sur cette
+bande les données qu’on voulait stocker, on les
+enroulait autour d’une bobine, et pour les lire il fallait
+les refaire passer dans le dérouleur. Le problème est
+qu’il permet seulement d&#39;accéder séquentiellement
+aux données, que son utilisation est complexe, et que
+les bobines prennent beaucoup de place.
+
+Les années passent et le besoin de stocker des
+données plus efficacement devient de plus en plus
+présent, alors de nombreuses entreprises se sont
+mises à chercher des solutions. Nous allons vous
+présenter les plus importantes :
+
+***[IBM](https://www.ibm.com/fr-fr)*** :
+IBM (International Business Machine Corporation) est
+une société née le 16 juin 1911. C’est une société
+pionnière dans l’industrie du stockage informatique,
+elle est à l’origine de plusieurs révolutions
+technologiques ayant débouché sur l’informatique
+moderne dont nos systèmes de stockages actuels.
+
+***[Seagate](https://www.seagate.com/fr/fr/)***:
+Seagate Technology Holding plc, est une société née
+le 1 novembre 1979, qui fait aussi partie de l’histoire
+des disques durs, grâce à ses prouesses
+technologiques comme l’invention du premier disque
+dur 5.25 pouce pesant moins de 3kg ou encore des
+disques à hautes vitesses (7200, 10000 et 15000
+tr/m).
+
+***[SanDisk](https://www.westerndigital.com/fr-fr/brand/sandisk)***:
+SanDisk est une société américaine fondée en 1988.
+Depuis 1991, elle est pionnière dans le domaine des
+SSD, des systèmes de stockage qui utilisent de la
+mémoire flash au lieu de disques durs mécaniques
+ou de têtes de lecture/écriture. La société a été
+acquise par Western Digital en octobre 2015.
+Western Digital:
+Western Digital Corporation, également connu sous
+l’acronyme WD, est une entreprise américaine de
+fabrication de matériel informatique. Fondée en 1970,
+elle a commencé à concevoir et fabriquer des
+disques durs en 1988. C’est actuellement le premier
+fabricant de disques durs, dépassant Seagate.
+
+## Composition d'un disque dur 
+
+Grâce à elles, le premier disque dur connecté à un
+ordinateur a été fabriqué en 1956 et à été
+commercialisé rapidement après. Il s&#39;agissait du
+RAMAC 305 (Random Access Method of Accounting
+and Control) fabriqué par l’entreprise IBM. Il avait les
+dimensions de la taille d’une porte et pesait près
+d&#39;une tonne… pour stocker seulement 5Mo. 
+
+Ce nouveau disque est composé de deux têtes (une
+pour lire et une pour écrire). Il est assez lent, mais au
+lieu d&#39;accéder aux données de manière séquentielle
+(dans un ordre prédéfini) comme avec les bandes
+magnétiques, il peut désormais accéder directement
+aux données où qu&#39;elles se trouvent sur le disque
+dur.
+Aujourd’hui, les disques durs à accès aléatoire ou
+random existent toujours mais ils consomment
+beaucoup de mémoire.
+Avant d’aller plus loin dans l’évolution du disque dur,
+il va nous falloir comprendre de quoi il est composé.
+Un disque dur est fait de quatre composants
+principaux : un plateau, une broche, une tête de
+lecture/écriture et une électronique intégrée.
+
+• Les plaques sont des disques rigides en métal
+ou en plastique. Les deux côtés de chaque
+plaque sont recouverts d&#39;une couche d&#39;oxyde de
+fer ou d&#39;un autre matériau magnétisable.
+
+• Les plateaux sont montés sur un axe central
+afin que tous les plateaux tournent à la même
+vitesse.
+
+• Les têtes de lecture/écriture sont montées sur
+des bras qui atteignent les deux côtés de chaque
+disque. Chaque face du disque possède au
+moins une tête de lecture/écriture. Les bras vont
+et viennent simultanément du centre du plateau
+vers l&#39;extérieur. Ce mouvement, associé à la
+rotation du plateau, permet à la tête de
+lecture/écriture d&#39;accéder à toutes les surfaces
+du plateau.
+
+• L&#39;électronique intégrée traduit les commandes
+de l&#39;ordinateur et déplace les têtes de
+lecture/écriture vers des zones spécifiques du
+disque pour lire et/ou écrire les données requises
+
+![image](https://user-images.githubusercontent.com/116948168/198825298-6bab7d45-840c-4cf2-b0ff-25009ec7bb7e.png)
+
+## L'histoire des disques durs
+
+En 1970, la première disquette est née. C’est en
+quelque sorte l’ancêtre de la clé USB.
+En **1973** les premières unités de stockage
+composées de plateaux, de têtes de lecture/écriture
+et d&#39;électronique embarquée dans une seule
+cartouche voient le jour. C&#39;est une technologie qui est
+encore utilisée dans les disques durs aujourd&#39;hui. Le
+3348 Data Module prenait encore la place d’une
+grande machine à laver.
+
+![image](https://user-images.githubusercontent.com/116948168/198825403-0558d9e6-f833-4016-a924-2c58c7e6d340.png)
+
+
+En **1980**, le premier disque dur semblable à ceux
+qu’on connaît est créé. Il est capable d’être installé
+dans un PC. Sa capacité était de 5Mo, comme celle
+du RAMAC 305 de 1956, mais cette fois la taille des
+disques est seulement de 13cm de diamètre. La
+vitesse de rotation de était elle aussi plus importante.
+Il existe aussi une version de 10 Mo avec le double
+de plateaux. Cela a permis l&#39;introduction massive de
+disques durs dans les ordinateurs personnels.
+
+Il faudra attendre la fin des années **1990** pour voir
+d&#39;autres progrès significatifs. *Le Bigfoot* de 5,25
+pouces atteint pour la première fois 19Go.
+En 1998, IBM a lancé le Deskstar 25GP. À 25 Go,
+non seulement il surpasse le Bigfoot de Quantum,
+mais il est nettement plus petit au format 3,5 pouces.
+Les constructeurs ont également fait un pas en avant
+avec les disques durs (14 Go) pour ordinateurs
+portables.
+
+Au cours des deux dernières décennies, plusieurs
+barrières ont été supprimées qui ont progressivement
+façonné l&#39;industrie du stockage telle qu&#39;elle est
+aujourd&#39;hui. 
+En **1991**, ***le premier SSD*** (Solid State Drive) disque
+dur qui n’est pas mécanique (n’a donc pas de tête de
+lecture/écriture ni de plateaux mais de la mémoire
+flash) a été vendu par SanDisk. 
+L&#39;année suivante, nous avons eu droit aux premiers
+disques durs à 7200 RPM avant de passer à 10 000
+RPM en 1996 et 15 000 RPM en 2000. Ils étaient
+principalement utilisés par les professionnels, mais
+certains disques durs haut de gamme étaient quand
+même proposés aux consommateurs.
+Peu de temps après, IBM a annoncé Microdrives. Il
+s&#39;agit d&#39;un petit disque dur avec 340 Mo de capacité
+sur un seul plateau. Ils ont évolué dans les années
+2000 et ont disparu au profit de la mémoire flash : ils
+sont compacts, plus performants et moins
+énergivores.
+
+ ## Evolution
+
+Après ça, tout s’est enchainé très vite :
+Entre 1998 et 2008, la capacité des disques durs a
+été multipliée par plus de 60 mais en 2018, elle n&#39;est
+que **10 fois** supérieure à ce qu&#39;elle était en 2008.
+En 2005 Hitachi a été le premier fabricant à réaliser
+un disque dur de 500 Go, **une capacité multipliée par
+20** en seulement 7 ans. Deux ans plus tard, le
+constructeur double ce score en passant à 1 To. Puis
+jusqu&#39;à 2 To en 2009, 3 To en 2010, 4 To en 2011, 6
+To en 2013, 8 To en 2014, 10 To en 2015, 2016 12
+To, 14 To en 2017, et enfin 16 To en 2018. L&#39;industrie
+s&#39;est stabilisée à un taux de croissance de 2 To par
+an.
+Aujourd’hui les disques atteignent 20 To et certaines
+entreprises envisagent une deuxième génération
+avec une capacité de 30 To, suivie d&#39;une
+augmentation rapide à 40 To d&#39;ici 2025. 
+Cela entrainât une large diminution du prix de
+stockage :
+En 1957, le prix du mégaoctet était d&#39;environ 10 000
+€. Il est rapidement tombé en dessous de 40 € 30 ans
+plus tard.
+Mais la baisse des prix ne s&#39;est pas arrêtée là. Au
+début des années 2000, un Go faisait à peine 2 €, en
+2010 c&#39;était moins de 10 centimes. En 2019, un
+disque dur de 4 To peut être trouvé pour moins de 85
+€, soit un peu plus de **2 centimes par Go**.
+Vous l’aurez compris, Les processus d&#39;aujourd&#39;hui
+repoussent les limites de ce que permettent les lois
+de la physique. Le format étant fixe (2,5&quot; ou 3,5&quot;), on
+ne peut pas empiler les plateaux à l&#39;infini. Les disques
+durs vont continuer de s’améliorer mais plus de
+manière aussi significante… Mais de nouveau moyen
+de stocker des données vont voir le jour, qui peuvent
+être considérés comme le futur du disque dur. En
+commençant par les SSD.
+
+## SSD
+
+Au cours de la dernière décennie, les SSD ont
+lentement gagné en popularité et sont devenus la
+norme pour certaines applications, des PC grand
+public à de nombreuses applications
+professionnelles. Il est préféré aux disques durs car il
+est très rapide et a une latence très faible.
+Les disques durs et les SSD sont souvent perçus
+comme des opposés, mais ils sont toujours
+complémentaires. Le premier a l&#39;avantage significatif
+d&#39;offrir un coût par gigaoctet, avec lesquelles les SSD
+grand public ne peuvent actuellement pas rivaliser.
+Le système d&#39;exploitation et les principales
+applications peuvent désormais être installés sur un
+SSD de 250 Go à 4 To selon votre budget, mais le
+reste de vos programmes, documents, photos et
+autres vidéos seront sur le disque dur beaucoup plus
+favorable Gigabyte/Euro peut être stockée.
+
+![image](https://user-images.githubusercontent.com/116948168/198825782-8e63d1ab-aee5-4a35-8333-78e1d77cabdb.png)
+
+
+**Mais comment fonctionnent t’ils ?**
+Contrairement aux disques durs, les périphériques de
+stockage SSD n&#39;ont pas de pièces mobiles et sont
+accessibles presque instantanément. Avec les SSD,
+les données sont stockées sur une micro-puce, ce qui
+les rend plus rapides. Les SSD sont plus petits que
+les HDD et peuvent également être installés
+directement sur la carte mère. Une forme plus
+avancée et sophistiquée de clé USB.
+Les SSD sont basés sur la mémoire flash, les deux
+types de flash les plus courants étant NOR et NAND.
+La plupart des SSD utilisent la mémoire flash NAND
+car elle écrit plus rapidement et est plus petite que
+NOR. La mémoire NAND est une mémoire flash non
+volatile qui conserve les données stockées même
+lorsque le disque est éteint.
+Les disques durs ont un bras mécanique qui lit et
+écrit des données, tandis que les SSD utilisent un
+processeur (contrôleur) pour lire et écrire des
+données. Il est également responsable du stockage,
+de la restauration, de la mise en cache et du
+nettoyage des données.
+Le contrôleur détermine la vitesse à laquelle les
+données sont lues et écrites sur le SSD, ainsi que les
+performances globales.
+
+## Cloud 
+
+Pour finir, une dernière technologie de stockage est
+apparue. Grâce à l&#39;omniprésence d&#39;Internet et à
+l&#39;évolution des performances, le stockage en ligne
+s’est démocratisé.
+Vers la fin du XXe siècle, le stockage en ligne a
+commencé à prendre forme. Cependant, il a fallu
+attendre le 21ème siècle pour que le cloud se
+généralise.
+Le cloud fait référence au support de stockage le plus
+récent et le plus polyvalent. C’est un service qui
+permet de stocker et de transmettre des données sur
+Internet. Aucun périphérique externe n&#39;est requis pour
+cette opération. Grâce aux plateformes cloud, nous
+avons désormais accès à divers fichiers sur nos
+téléphones et ordinateurs.
+Cette technologie à beaucoup d’avantages : tout
+d&#39;abord, son prix est moins cher que les moyens de
+stockage physiques. De plus, il est multiplateforme.
+En effet, des fournisseurs tels que Microsoft permet
+d&#39;accéder aux fichiers stockés dans le cloud via
+divers appareils (ordinateurs, téléphones, tablettes,
+etc.) sans problèmes de compatibilité en utilisant
+OneDrive.
+
+
+![image](https://user-images.githubusercontent.com/116948168/198825748-346439d7-2a18-4ca0-b3ed-3f6b35b58c5f.png)
+
+Pour conclure, en 70 ans les disques durs sont
+passés d’un ratio poids/quantité de stockage de
+plusieurs tonnes pour un stockage extrêmement
+limité à un poids de 0 avec le cloud et une quantité de
+stockage quasiment illimitée. Cette transformation est
+passée par de l’optimisation d’espace, de nouvelles
+inventions et moyens de stockage, de nouveaux
+outils, mais aussi pour de nouvelles utilisations et un
+nouveau public.
